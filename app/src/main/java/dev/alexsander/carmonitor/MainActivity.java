@@ -30,7 +30,7 @@ import java.util.UUID;
 
 
 public class MainActivity extends AppCompatActivity {
-    private static final String OBD_LABEL = "OBD2";
+    private static final String OBD_LABEL = "OBDII";
     private static final String TAG = "MainActivity";
     private static final UUID UUID = java.util.UUID.fromString("00001101-0000-1000-8000-00805F9B34FB");
     private static final int TIME_OUT = 200;
